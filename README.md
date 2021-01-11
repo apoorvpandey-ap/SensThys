@@ -1,3 +1,3 @@
 # SensThys
 ## 
-![image](image\1.JPEG)
+![image1](image\1.jpeg)
