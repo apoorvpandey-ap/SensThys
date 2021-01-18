@@ -4,8 +4,8 @@
 ## DVR Ports 
 ![image2](image/2.jpeg)
 ## SensThys Enterprises
-![image3](image/SensThys Enterprises.png)
+![image3](image/3.png)
 ## SensThys Extream
-![image4](image/SensThys Extream.jpeg)
+![image4](image/4.jpeg)
 
 
